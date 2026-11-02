@@ -3,40 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\models\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\models\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\firstmvccore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\firstmvccore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4BD7A97-BEFC-4CC2-B200-5EE1FCF90032}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\firstmvccore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\firstmvccore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\firstmvccore\\firstmvccore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE397A87-18B3-AA94-4B9A-CC2818456813}|FirstMVCCore\\FirstMVCCore.csproj|solutionrelative:firstmvccore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,111 +70,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\IStudentService.cs",
-              "RelativeDocumentMoniker": "FirstMVCCore\\Service\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\IStudentService.cs",
-              "RelativeToolTip": "FirstMVCCore\\Service\\IStudentService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T08:22:24.148Z",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FirstMVCCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T09:12:34.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\StudentService.cs",
-              "RelativeDocumentMoniker": "FirstMVCCore\\Service\\StudentService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\StudentService.cs",
-              "RelativeToolTip": "FirstMVCCore\\Service\\StudentService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwAEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T08:18:38.154Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-02T07:54:47.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FirstMVCCore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FirstMVCCore\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-02T07:54:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "FirstMVCCore\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:28:35.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "FirstMVCCore\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:28:12.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Program.cs",
               "RelativeDocumentMoniker": "FirstMVCCore\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Program.cs",
               "RelativeToolTip": "FirstMVCCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-01T07:40:42.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCCore\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:24:42.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "FirstMVCCore\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Controllers\\StudentController.cs",
               "RelativeToolTip": "FirstMVCCore\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T08:17:40.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FirstMVCCore\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FirstMVCCore\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-01T08:24:24.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Models\\Entity\\Student.cs",
-              "RelativeDocumentMoniker": "FirstMVCCore\\Models\\Entity\\Student.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Models\\Entity\\Student.cs",
-              "RelativeToolTip": "FirstMVCCore\\Models\\Entity\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T08:17:57.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FirstMVCCore",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\FirstMVCCore.csproj",
-              "RelativeDocumentMoniker": "FirstMVCCore\\FirstMVCCore.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\FirstMVCCore.csproj",
-              "RelativeToolTip": "FirstMVCCore\\FirstMVCCore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-01T08:15:19.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\appsettings.json",
-              "RelativeDocumentMoniker": "FirstMVCCore\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\appsettings.json",
-              "RelativeToolTip": "FirstMVCCore\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-01T07:34:09.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-01T08:17:40.945Z"
             },
             {
               "$type": "Document",
@@ -160,10 +181,81 @@
               "RelativeDocumentMoniker": "FirstMVCCore\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FirstMVCCore\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-01T07:33:39.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-01T07:33:39.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Service\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\IStudentService.cs",
+              "RelativeToolTip": "FirstMVCCore\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:22:24.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Service\\StudentService.cs",
+              "RelativeToolTip": "FirstMVCCore\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:18:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstMVCCore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T08:24:24.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FirstMVCCore\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\Models\\Student.cs",
+              "RelativeToolTip": "FirstMVCCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:17:57.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FirstMVCCore.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\FirstMVCCore.csproj",
+              "RelativeDocumentMoniker": "FirstMVCCore\\FirstMVCCore.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\FirstMVCCore.csproj",
+              "RelativeToolTip": "FirstMVCCore\\FirstMVCCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-01T08:15:19.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstMVCCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\FirstMVCCore\\FirstMVCCore\\appsettings.json",
+              "RelativeToolTip": "FirstMVCCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T07:34:09.601Z"
             }
           ]
         }

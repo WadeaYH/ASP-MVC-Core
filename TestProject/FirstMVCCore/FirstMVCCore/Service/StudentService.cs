@@ -1,4 +1,4 @@
-﻿using FirstMVCCore.Models.Entity;
+﻿using FirstMVCCore.Models;
 using System.Xml.Linq;
 
 namespace FirstMVCCore.Service
