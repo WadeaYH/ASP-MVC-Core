@@ -1,0 +1,26 @@
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Home Page";
+    var user = Context.Session.GetString("User");
+    var url = Url.Action("Index", "Calculator");
+}
+
+<h1>Url.Action, Session, Cookies and Calculator</h1>
+
+@* Session *@
+@if (user != null)
+{
+    <p>Hello @user | <a href="@Url.Action("Logout", "Account")">Logout</a></p>
+}
+else
+{
+    <p><a href="@Url.Action("Login", "Account")">Login</a></p>
+}
+
+@* Url.Action: three ways to make a link *@
+<ul>
+    <li><a href="@Url.Action("Index", "Cookie")">Cookie example</a> (Url.Action)</li>
+    <li><a asp-controller="Calculator" asp-action="Index">Calculator</a> (tag helper)</li>
+    <li>@Html.ActionLink("Home", "Index", "Home") (Html.ActionLink)</li>
+    <li>The Calculator URL is: @url</li>
+</ul>

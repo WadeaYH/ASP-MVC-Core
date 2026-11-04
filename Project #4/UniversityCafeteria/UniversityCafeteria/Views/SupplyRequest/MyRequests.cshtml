@@ -1,0 +1,40 @@
+﻿@using UniversityCafeteria.DTO
+@model List<ConfirmedRequest>
+@{
+    ViewBag.Title = "My Requests";
+}
+
+<div class="container mt-4">
+    <h2>My Supply Requests</h2>
+
+    @if (Model.Count == 0)
+    {
+        <p>No confirmed requests yet.</p>
+    }
+    else
+    {
+        <table class="table table-bordered">
+            <tr>
+                <th>Request ID</th>
+                <th>Number of Products</th>
+                <th>Subtotal</th>
+                <th>Preparation Fee</th>
+                <th>Discount</th>
+                <th>Final Total</th>
+                <th>Status</th>
+            </tr>
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <td>@r.Id</td>
+                    <td>@r.NumberOfProducts</td>
+                    <td>@r.Subtotal.ToString("0.00") JD</td>
+                    <td>@r.PreparationFee.ToString("0.00") JD</td>
+                    <td>@r.Discount.ToString("0.00") JD</td>
+                    <td>@r.FinalTotal.ToString("0.00") JD</td>
+                    <td>@r.Status</td>
+                </tr>
+            }
+        </table>
+    }
+</div>

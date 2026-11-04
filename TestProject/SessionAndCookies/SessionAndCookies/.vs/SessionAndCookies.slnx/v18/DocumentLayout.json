@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14127DAD-A8F7-4838-AEB1-E75035E8BCFE}|SessionAndCookies\\SessionAndCookies.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\sessionandcookies\\sessionandcookies\\sessionandcookies\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14127DAD-A8F7-4838-AEB1-E75035E8BCFE}|SessionAndCookies\\SessionAndCookies.csproj|solutionrelative:sessionandcookies\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14127DAD-A8F7-4838-AEB1-E75035E8BCFE}|SessionAndCookies\\SessionAndCookies.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\sessionandcookies\\sessionandcookies\\sessionandcookies\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14127DAD-A8F7-4838-AEB1-E75035E8BCFE}|SessionAndCookies\\SessionAndCookies.csproj|solutionrelative:sessionandcookies\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14127DAD-A8F7-4838-AEB1-E75035E8BCFE}|SessionAndCookies\\SessionAndCookies.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\testproject\\sessionandcookies\\sessionandcookies\\sessionandcookies\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14127DAD-A8F7-4838-AEB1-E75035E8BCFE}|SessionAndCookies\\SessionAndCookies.csproj|solutionrelative:sessionandcookies\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CookieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\SessionAndCookies\\Controllers\\CookieController.cs",
+              "RelativeDocumentMoniker": "SessionAndCookies\\Controllers\\CookieController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\SessionAndCookies\\Controllers\\CookieController.cs",
+              "RelativeToolTip": "SessionAndCookies\\Controllers\\CookieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:39:23.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\SessionAndCookies\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "SessionAndCookies\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\SessionAndCookies\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "SessionAndCookies\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:38:37.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\SessionAndCookies\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SessionAndCookies\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\TestProject\\SessionAndCookies\\SessionAndCookies\\SessionAndCookies\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SessionAndCookies\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:38:27.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

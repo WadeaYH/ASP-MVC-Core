@@ -64,7 +64,6 @@ wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\css\Products.css
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\css\site.css
-C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\favicon.ico
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\js\site.js
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -125,3 +124,4 @@ C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\Un
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\user\Desktop\C# Projects\ASP-MVC-Core\Project #3\UniversityCafeteria\UniversityCafeteria\wwwroot\favicon.ico

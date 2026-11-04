@@ -1,0 +1,79 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+
+@{
+    string[] products = new string[] { "Water", "Orange Juice", "Coffee", "Sandwich", "Chocolate" };
+
+    string[] suppliers = new string[] { "Fresh Food Company", "Happy Drinks Company", "Daily Supplies Company" };
+
+    var productSupplierPairs = new[]
+    {
+        new { id = 1, product = "Water", supplier = "Happy Drinks Company", stock = 100, status = "Available" },
+        new { id = 2, product = "Orange Juice", supplier = "Happy Drinks Company", stock = 20, status = "Low Stock" },
+        new { id = 3, product = "Coffee", supplier = "Fresh Food Company", stock = 50, status = "Available" },
+        new { id = 4, product = "Sandwich", supplier = "Daily Supplies Company", stock = 15, status = "Available" },        
+        new { id = 5, product = "Chocolate", supplier = "Fresh Food Company", stock = 30, status = "Available" },
+        new { id = 6, product = "Milk", supplier = "Happy Drinks Company", stock = 0, status = "Out of Stock"}
+    };
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>Supply Status</title>
+</head>
+<body>
+<h1>University Cafeteria | Supply Status</h1>
+
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Product</th>
+            <th scope="col">Supplier</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pair in productSupplierPairs)
+        {
+            <tr>
+                <th scope="row">@pair.id</th>
+                <td>@pair.product</td>
+                <td>@pair.supplier</td>
+                <td>@pair.stock</td>
+                @if (pair.status == "Low Stock")
+                {
+                    <td style="color: orange;">@pair.status</td>
+                }
+                else if (pair.status == "Out of Stock")
+                {
+                    <td style="color: red;">@pair.status</td>
+                }
+                else if (pair.status == "Available")
+                {
+                    <td style="color: green;">@pair.status</td>
+                }
+                else
+                {
+                    <td>@pair.status</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+</body>
+</html>

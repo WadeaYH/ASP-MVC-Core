@@ -1,0 +1,24 @@
+@using Microsoft.AspNetCore.Http
+@model CalculatorViewModel
+
+<h2>Calculator</h2>
+
+<form asp-action="Index" method="post">
+    <input asp-for="Number1" class="form-control mb-2" />
+    <input asp-for="Number2" class="form-control mb-2" />
+    <button name="Operation" value="+">+</button>
+    <button name="Operation" value="-">-</button>
+    <button name="Operation" value="*">*</button>
+    <button name="Operation" value="/">/</button>
+</form>
+
+@if (Model.Error != null)
+{
+    <div class="alert alert-danger mt-3">@Model.Error</div>
+}
+else if (Model.Result != null)
+{
+    <div class="alert alert-success mt-3">Result: @Model.Result</div>
+}
+
+<p>Last result (from Session): @Context.Session.GetString("Last")</p>
