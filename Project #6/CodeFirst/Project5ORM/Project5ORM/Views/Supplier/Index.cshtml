@@ -1,0 +1,35 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+
+@model List<Supplier>
+@{
+    ViewData["Title"] = "Suppliers";
+}
+
+<h2>Suppliers</h2>
+
+<p>@Html.ActionLink("Add Supplier", "Create", "Supplier", null, new { @class = "btn btn-primary" })</p>
+
+@if (Model.Count == 0)
+{
+    <p>No Suppliers yet.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+        @foreach (var supplier in Model)
+        {
+            <tr>
+                <td>@supplier.Id</td>
+                <td>@supplier.Name</td>
+                <td>@supplier.Email</td>
+                <td>@supplier.Phone</td>
+            </tr>
+        }
+    </table>
+}

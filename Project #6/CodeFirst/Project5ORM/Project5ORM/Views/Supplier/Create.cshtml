@@ -1,0 +1,36 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+@model Supplier
+@{
+    ViewData["Title"] = "Add Supplier";
+}
+
+<h2>Add Supplier</h2>
+
+@using (Html.BeginForm("Create", "Supplier", FormMethod.Post))
+{
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextAreaFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Phone)
+        @Html.TextAreaFor(m => m.Phone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "text-danger" })
+    </div>
+
+    <button class="btn btn-success">Save</button>
+    @Html.ActionLink("Back to list", "Index", "Supplier", null, new { @class = "btn btn-secondary" })
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

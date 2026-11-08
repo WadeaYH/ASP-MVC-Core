@@ -137,7 +137,7 @@
               "RelativeDocumentMoniker": "UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #4\\UniversityCafeteria\\UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
               "RelativeToolTip": "UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAywBsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwBsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T12:02:30.936Z",
               "IsPinned": true,
@@ -153,8 +153,7 @@
               "RelativeToolTip": "UniversityCafeteria\\DTO\\ConfirmedRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T20:45:52.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T20:45:52.738Z"
             },
             {
               "$type": "Document",
@@ -166,8 +165,7 @@
               "RelativeToolTip": "UniversityCafeteria\\DTO\\CreateSupplyRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T12:15:46.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T12:15:46.158Z"
             },
             {
               "$type": "Document",
@@ -179,8 +177,7 @@
               "RelativeToolTip": "UniversityCafeteria\\DTO\\ReviewViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T20:45:50.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T20:45:50.842Z"
             },
             {
               "$type": "Document",
@@ -192,8 +189,7 @@
               "RelativeToolTip": "UniversityCafeteria\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T20:14:26.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T20:14:26.67Z"
             },
             {
               "$type": "Document",
