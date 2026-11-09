@@ -1,0 +1,42 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+@model Employee
+@{
+    ViewData["Title"] = "Add Employee";
+}
+
+<h2>Add Employee</h2>
+
+@using (Html.BeginForm("Create", "Employee", FormMethod.Post))
+{
+    <div class="mb-3">
+        @Html.LabelFor(m => m.FullName)
+        @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.FullName, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Position)
+        @Html.TextBoxFor(m => m.Position, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Position, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Salary)
+        @Html.TextBoxFor(m => m.Salary, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Salary, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.HireDate)
+        @Html.TextBoxFor(m => m.HireDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(m => m.HireDate, "", new { @class = "text-danger" })
+    </div>
+
+    <button class="btn btn-success">Save</button>
+    @Html.ActionLink("Back to list", "Index", "Employee", null, new { @class = "btn btn-secondary" })
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

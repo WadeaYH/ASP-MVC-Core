@@ -1,0 +1,48 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+@model Product
+@{
+    ViewData["Title"] = "Add Product";
+}
+
+<h2>Add Product</h2>
+
+@using (Html.BeginForm("Create", "Products", FormMethod.Post))
+{
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Price)
+        @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Price, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Quantity)
+        @Html.TextBoxFor(m => m.Quantity, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Quantity, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.CategoryId)
+        @Html.TextBoxFor(m => m.CategoryId, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.CategoryId, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.SupplierId)
+        @Html.TextBoxFor(m => m.SupplierId, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.SupplierId, "", new { @class = "text-danger" })
+    </div>
+
+    <button class="btn btn-success">Save</button>
+    @Html.ActionLink("Back to list", "Index", "Products", null, new { @class = "btn btn-secondary" })
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

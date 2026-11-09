@@ -22,6 +22,7 @@ else
             <th>Name</th>
             <th>Price</th>
             <th>Quantity</th>
+            <th>Status</th>
             <th>CategoryId</th>
             <th>SupplierId</th>
         </tr>
@@ -32,6 +33,14 @@ else
                 <td>@products.Name</td>
                 <td>@products.Price</td>
                 <td>@products.Quantity</td>
+                @if(products.Quantity < 5)
+                {
+                    <td>Low Stock</td>
+                }
+                else
+                {
+                    <td>In Stock</td>
+                }
                 <td>@products.CategoryId</td>
                 <td>@products.SupplierId</td>
             </tr>

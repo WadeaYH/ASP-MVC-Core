@@ -1,0 +1,50 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+
+@model List<Order>
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<h2>Orders</h2>
+
+<p>@Html.ActionLink("Add Order", "Create", "Order", null, new { @class = "btn btn-primary" })</p>
+
+@if (Model.Count == 0)
+{
+    <p>No Orders yet.</p>
+}
+else
+
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>Id</th>
+            <th>CustomerName</th>
+            <th>OrderDate</th>
+            <th>TotalPrice</th>
+            <th>Status</th>
+            <th>EmployeeId</th>
+            <th>Actions</th>
+        </tr>
+        @foreach (var orders in Model)
+        {
+            <tr>
+                <td>@orders.Id</td>
+                <td>@orders.CustomerName</td>
+                <td>@orders.OrderDate</td>
+                <td>@orders.TotalPrice</td>
+                <td>@orders.Status</td>
+                <td>@orders.EmployeeId</td>
+                <td>
+                    @Html.ActionLink("Details", "Details", "Order", new { id = orders.Id }, new { @class = "btn btn-info btn-sm" })
+                    @Html.ActionLink("Edit", "Edit", "Order", new { id = orders.Id }, new { @class = "btn btn-warning btn-sm" })
+                    @using (Html.BeginForm("Delete", "Order", new { id = orders.Id }, FormMethod.Post, null, new { style = "display:inline", onsubmit = "return confirm('Are you sure you want to delete this order?');" }))
+                    {
+                        <button class="btn btn-danger btn-sm">Delete</button>
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}

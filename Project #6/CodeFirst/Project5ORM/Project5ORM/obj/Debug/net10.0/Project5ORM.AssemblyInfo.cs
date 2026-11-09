@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project5ORM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c364d5d92f96fd9a230cb8f6012f496befa33ccd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91ea444a29104af040db399e03007048c6fcdbf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project5ORM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project5ORM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

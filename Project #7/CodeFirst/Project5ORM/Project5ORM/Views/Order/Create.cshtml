@@ -1,0 +1,52 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+@model Order
+@{
+    ViewData["Title"] = "Add Order";
+}
+
+<h2>Add Order</h2>
+
+@using (Html.BeginForm("Create", "Order", FormMethod.Post))
+{
+    <div class="mb-3">
+        @Html.LabelFor(m => m.CustomerName)
+        @Html.TextBoxFor(m => m.CustomerName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.CustomerName, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.OrderDate)
+        @Html.TextBoxFor(m => m.OrderDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(m => m.OrderDate, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.TotalPrice)
+        @Html.TextBoxFor(m => m.TotalPrice, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.TotalPrice, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Status)
+        @Html.TextBoxFor(m => m.Status, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Status, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.EmployeeId)
+        @Html.TextBoxFor(m => m.EmployeeId, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.EmployeeId, "", new { @class = "text-danger" })
+    </div>
+    @if (ViewBag.Error != null)
+    {
+        <h1 style= "color:red">@ViewBag.Error</h1>                
+    }
+
+    <button class="btn btn-success">Save</button>
+    @Html.ActionLink("Back to list", "Index", "Order", null, new { @class = "btn btn-secondary" })
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

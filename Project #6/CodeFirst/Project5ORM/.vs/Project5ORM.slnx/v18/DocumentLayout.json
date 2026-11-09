@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\project5orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\project5orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,20 +59,12 @@
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\models\\codefirst\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #6\\codefirst\\project5orm\\project5orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,50 +82,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Project5ORM\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Project5ORM\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T12:21:56.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Project5ORM\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Project5ORM\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA2wCoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T12:08:05.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Project5ORM\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:24:35.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Project5ORM\\Views\\Products\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "Project5ORM\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-08T12:12:07.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "Project5ORM\\Views\\Categories\\Create.cshtml",
@@ -125,12 +120,11 @@
               "RelativeToolTip": "Project5ORM\\Views\\Categories\\Create.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T09:30:12.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T09:30:12.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Supplier\\Create.cshtml",
               "RelativeDocumentMoniker": "Project5ORM\\Views\\Supplier\\Create.cshtml",
@@ -138,12 +132,11 @@
               "RelativeToolTip": "Project5ORM\\Views\\Supplier\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T11:59:10.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T11:59:10.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Project5ORM\\Views\\Shared\\_Layout.cshtml",
@@ -151,12 +144,11 @@
               "RelativeToolTip": "Project5ORM\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAmwCAAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T12:06:08.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T12:06:08.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Product.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\Product.cs",
@@ -164,12 +156,11 @@
               "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\Product.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T15:59:56.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T15:59:56.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Supplier\\Index.cshtml",
               "RelativeDocumentMoniker": "Project5ORM\\Views\\Supplier\\Index.cshtml",
@@ -177,12 +168,72 @@
               "RelativeToolTip": "Project5ORM\\Views\\Supplier\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAmwB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T11:53:16.755Z",
+              "WhenOpened": "2026-11-08T11:53:16.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Project5ORM\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T09:07:50.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Project5ORM.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Project5ORM.csproj",
+              "RelativeDocumentMoniker": "Project5ORM\\Project5ORM.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Project5ORM.csproj",
+              "RelativeToolTip": "Project5ORM\\Project5ORM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-08T13:00:21.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Project5ORM\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T12:08:05.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CafeteriaEmployeesDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
+              "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T16:19:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project5ORM\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Project5ORM\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T12:21:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Controllers\\SupplierController.cs",
@@ -190,12 +241,11 @@
               "RelativeToolTip": "Project5ORM\\Controllers\\SupplierController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAuwCYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T11:49:25.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T11:49:25.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Supplier.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\Supplier.cs",
@@ -203,25 +253,11 @@
               "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\Supplier.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T11:48:56.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T11:48:56.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CafeteriaEmployeesDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
-              "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
-              "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T16:19:07.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Category.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\Category.cs",
@@ -229,12 +265,11 @@
               "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\Category.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T15:58:12.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T15:58:12.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Project5ORM\\Views\\Categories\\Index.cshtml",
@@ -242,25 +277,11 @@
               "RelativeToolTip": "Project5ORM\\Views\\Categories\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-08T09:12:45.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T09:12:45.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Project5ORM\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Project5ORM\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-08T09:07:50.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Program.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Program.cs",
@@ -268,12 +289,11 @@
               "RelativeToolTip": "Project5ORM\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T15:39:28.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T15:39:28.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20261107161854_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #6\\CodeFirst\\Project5ORM\\Project5ORM\\Migrations\\20261107161854_InitialCreate.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Migrations\\20261107161854_InitialCreate.cs",

@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Migrations\\20261107161854_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project5ORM\\Migrations\\20261107161854_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\project5orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\project5orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\models\\codefirst\\cafeteriaemployeesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|c:\\users\\user\\desktop\\c# projects\\asp-mvc-core\\project #5\\codefirst\\project5orm\\project5orm\\migrations\\20261107161854_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1D0366-852C-F625-FBAD-1612D69F41C3}|Project5ORM\\Project5ORM.csproj|solutionrelative:project5orm\\migrations\\20261107161854_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +59,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\appsettings.json",
+              "RelativeDocumentMoniker": "Project5ORM\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\appsettings.json",
+              "RelativeToolTip": "Project5ORM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T12:12:50.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project5ORM",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Project5ORM.csproj",
+              "RelativeDocumentMoniker": "Project5ORM\\Project5ORM.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Project5ORM.csproj",
+              "RelativeToolTip": "Project5ORM\\Project5ORM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T12:12:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project5ORM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:12:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Supplier.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\Supplier.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Supplier.cs",
+              "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:11:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\PurchaseOrderItem.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\PurchaseOrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\PurchaseOrderItem.cs",
+              "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\PurchaseOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:11:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\PurchaseOrder.cs",
+              "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:11:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CafeteriaEmployeesDBContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\CafeteriaEmployeesDBContext.cs",
@@ -48,6 +150,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Program.cs",
+              "RelativeDocumentMoniker": "Project5ORM\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Program.cs",
+              "RelativeToolTip": "Project5ORM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T15:39:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "20261107161854_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Migrations\\20261107161854_InitialCreate.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Migrations\\20261107161854_InitialCreate.cs",
@@ -55,25 +170,24 @@
               "RelativeToolTip": "Project5ORM\\Migrations\\20261107161854_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T16:18:54.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-07T16:18:54.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Product.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\Product.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Product.cs",
               "RelativeToolTip": "Project5ORM\\Models\\CodeFirst\\Product.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T15:59:56.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Models\\CodeFirst\\Category.cs",
               "RelativeDocumentMoniker": "Project5ORM\\Models\\CodeFirst\\Category.cs",
@@ -82,19 +196,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-07T15:58:12.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Program.cs",
-              "RelativeDocumentMoniker": "Project5ORM\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C# Projects\\ASP-MVC-Core\\Project #5\\CodeFirst\\Project5ORM\\Project5ORM\\Program.cs",
-              "RelativeToolTip": "Project5ORM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-07T15:39:28.739Z",
               "EditorCaption": ""
             }
           ]

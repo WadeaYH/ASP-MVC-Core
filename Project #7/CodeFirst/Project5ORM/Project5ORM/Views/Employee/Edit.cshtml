@@ -1,0 +1,36 @@
+﻿@using Project5ORM.Models.CodeFirst
+
+@model Employee
+@{
+    ViewData["Title"] = "Edit Employee";
+}
+
+<h2>Edit Employee</h2>
+
+@using (Html.BeginForm("Edit", "Employee", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Id)
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.FullName)
+        @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Position)
+        @Html.TextBoxFor(m => m.Position, new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.Salary)
+        @Html.TextBoxFor(m => m.Salary, new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3">
+        @Html.LabelFor(m => m.HireDate)
+        @Html.EditorFor(m => m.HireDate, new { @class = "form-control" })
+    </div>
+
+    <button class="btn btn-success">Save Changes</button>
+    @Html.ActionLink("Back to list", "Index", "Employee", null, new { @class = "btn btn-secondary" })
+}
