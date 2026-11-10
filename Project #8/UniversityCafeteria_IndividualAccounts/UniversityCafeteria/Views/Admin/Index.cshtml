@@ -1,0 +1,14 @@
+@model IEnumerable<UserRoleViewModel>
+@{ ViewData["Title"] = "Manage Users"; }
+<h2>Manage Users and Roles</h2>
+<p>Only SuperAdmin can access this page or change roles.</p>
+<table class="table table-striped"><thead><tr><th>Email</th><th>Current role</th><th>Change role</th><th>Delete</th></tr></thead><tbody>
+@foreach (var user in Model) { <tr><td>@user.Email</td><td>@user.CurrentRole</td><td>
+<form asp-action="ChangeRole" method="post" class="d-flex gap-2">
+<input type="hidden" name="UserId" value="@user.UserId" />
+<select name="NewRole" class="form-select">
+@foreach (var role in new[] { "User", "Admin", "SuperAdmin" }) { <option value="@role" selected="@(role == user.CurrentRole)">@role</option> }
+</select><button class="btn btn-primary btn-sm">Update</button></form></td><td>
+<form asp-action="Delete" method="post"><input type="hidden" name="id" value="@user.UserId" /><button class="btn btn-danger btn-sm" onclick="return confirm('Delete this user?')">Delete</button></form>
+</td></tr> }
+</tbody></table>

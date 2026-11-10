@@ -1,0 +1,7 @@
+@model IEnumerable<SupplyRequest>
+@{ ViewData["Title"] = "Supply Requests"; }
+<h2>Supply Requests</h2>
+<a class="btn btn-primary mb-3" asp-action="Create">Create Request</a>
+<table class="table table-striped"><thead><tr><th>#</th><th>Date</th><th>Requested By</th><th>Total</th><th>Status</th><th></th></tr></thead><tbody>
+@foreach (var r in Model) { <tr><td>@r.Id</td><td>@r.RequestDate.ToLocalTime().ToString("g")</td><td>@r.User?.Email</td><td>@r.TotalPrice.ToString("C")</td><td>@r.Status</td><td><a asp-action="Details" asp-route-id="@r.Id">Details</a></td></tr> }
+</tbody></table>

@@ -1,0 +1,11 @@
+@{ ViewData["Title"] = "Home"; }
+<div class="p-5 mb-4 bg-light rounded-3">
+  <h1>University Cafeteria Supply Requests</h1>
+  <p class="lead">Browse products, submit supply requests, and follow their approval status.</p>
+  <a class="btn btn-primary" asp-controller="Products" asp-action="Index">Browse Products</a>
+  @if (User.Identity?.IsAuthenticated == true) {
+    <a class="btn btn-outline-primary" asp-controller="SupplyRequest" asp-action="Create">Create a Request</a>
+  } else {
+    <a class="btn btn-outline-primary" asp-controller="Account" asp-action="Register">Create an Account</a>
+  }
+</div>

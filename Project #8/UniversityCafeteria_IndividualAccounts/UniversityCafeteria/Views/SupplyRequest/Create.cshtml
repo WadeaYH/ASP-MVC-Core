@@ -1,0 +1,16 @@
+@model CreateSupplyRequestViewModel
+@{ ViewData["Title"] = "Create Supply Request"; var products = ViewBag.Products as List<Product> ?? new(); }
+<h2>Create Supply Request</h2>
+<form method="post">
+  @if (ViewBag.RequestId != null) { <input type="hidden" name="id" value="@ViewBag.RequestId" /> }
+  <div asp-validation-summary="All" class="text-danger"></div>
+  <p>Select products and enter the requested quantities. Only available stock is listed.</p>
+  <table class="table"><thead><tr><th>Product</th><th>Unit price</th><th>Available</th><th>Request quantity</th></tr></thead><tbody>
+  @for (var i = 0; i < products.Count; i++) {
+    <tr><td>@products[i].Name<input type="hidden" name="Lines[@i].ProductId" value="@products[i].Id" /></td>
+    <td>@products[i].Price.ToString("C")</td><td>@products[i].Quantity</td>
+    <td><input class="form-control" type="number" min="0" max="@products[i].Quantity" name="Lines[@i].Quantity" value="0" /></td></tr>
+  }
+  </tbody></table>
+  <button class="btn btn-primary">Submit Request</button>
+</form>
